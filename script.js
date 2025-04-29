@@ -1,4 +1,4 @@
-const weatherApiKey='';
+const weatherApiKey='f829ea5d1de5bca8ab12c8e472cbd91f';
 
 
 
