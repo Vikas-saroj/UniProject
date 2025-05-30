@@ -3,8 +3,8 @@ const weatherApiKey='f829ea5d1de5bca8ab12c8e472cbd91f';
 
 
 async function getToken() {
-    const clientId = '';
-    const clientSecret = '';
+    const clientId = '11185d52936e45c3907999111bed1bbd';
+    const clientSecret = '2be5bef1dffc49309cc5f8ab8d168ca2';
     const encodedCredentials = btoa(`${clientId}:${clientSecret}`);
     
     const response = await fetch('https://accounts.spotify.com/api/token', {
